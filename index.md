@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## loja david.natan
+  
+O que você está procurando?
+Buscar
+Entrar0
+Frete grátis
+class="carousel__slides--images"
+2 por R$ 169,902 por R$ 199,902 por R$ 129,902 por R$ 59,90
+Looks top marcas até 70% +30% em 2
+Desconto Progressivo
+Bolsas e Acessórios com até 60% off + 10% off
 
-You can use the [editor on GitHub](https://github.com/davidnatanc/super-spork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+close_news
+Receba ofertas e descontos exclusivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nome
+Digite seu e-mail
 
-```markdown
-Syntax highlighted code block
+Categoria
+ENVIAR
+Especial Crocs Cupom 10%
+Jeans e básicos
+Tênis e Sapatênis a partir de R$ 59,99
 
-# Header 1
-## Header 2
-### Header 3
+NAVEGUE PELAS MARCAS
 
-- Bulleted
-- List
+Osklen
+Beira Rio
+Lacoste
 
-1. Numbered
-2. List
+## FORMAD DE PAGAMENTOS:
 
-**Bold** and _Italic_ and `Code` text
+NCard	Visa	Mastercard	American Express	Diners Club	Hipercard	Elo	Boleto	Paypal	Pix
+Divida suas compras em
+2 cartões e pague em
+até 10x sem juros	
+Netshoes|Shoestock
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidnatanc/super-spork/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
